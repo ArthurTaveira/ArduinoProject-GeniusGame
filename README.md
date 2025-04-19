@@ -2,6 +2,8 @@
 
 Este é um jogo **Genius (Simon)** feito com **Arduino**, que desafia sua memória com sequências de luzes e sons. 
 
+![Foto do projeto](GeniusGame.jpeg)
+
 ## 📦 Componentes necessários
 
 - 4 Botões (cores: verde, vermelho, amarelo e azul)
