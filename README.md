@@ -1,6 +1,6 @@
 # 🎮 Projeto Genius (Simon Game) com Arduino
 
-Este é um jogo **Genius (Simon)** feito com **Arduino**, que desafia sua memória com sequências de luzes e sons. Ele possui diferentes modos de jogo, incluindo um modo para dois jogadores e um easter egg musical!
+Este é um jogo **Genius (Simon)** feito com **Arduino**, que desafia sua memória com sequências de luzes e sons. 
 
 ## 📦 Componentes necessários
 
@@ -26,22 +26,6 @@ Este é um jogo **Genius (Simon)** feito com **Arduino**, que desafia sua memór
 | Buzzer      | 10           |
 
 > Obs: Os botões devem ser conectados com **pull-down resistors** ou configurados via `INPUT_PULLUP` com lógica invertida, caso preferir.
-
-## 🧠 Modos de Jogo
-
-### 🎯 Modo Memória (Single Player)
-
-- O Arduino gera uma sequência crescente de cores e sons.
-- O jogador deve repetir corretamente a sequência.
-- A dificuldade aumenta a cada acerto.
-
-### ⚔️ Modo 2 Jogadores
-
-- Dois jogadores competem para repetir corretamente as sequências.
-- O jogador que errar perde a vez.
-
----
-
 ## ⚙️ Código do Projeto
 
 ```cpp
